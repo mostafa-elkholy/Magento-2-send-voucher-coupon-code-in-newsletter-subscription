@@ -11,5 +11,3 @@ php bin/magento setup:upgrade
 php bin/magento setup:di:compile
 
 Mostafa Mohamed Elkholy 
-00201006776010
-Melkholy@maxmize.com, Melkholy@live.com
